@@ -13,6 +13,7 @@ For example, we start with the following matrix s:
 * 5 3 4
 * 1 5 8
 * 6 4 2
+
 We can convert it to the following magic square:
 * 8 3 4
 * 1 5 9
